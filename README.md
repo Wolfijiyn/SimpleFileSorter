@@ -1,5 +1,5 @@
 # SimpleFileSorter
-Developer: Wolfijiyn
+Developer: Wolfijiyn<br>
 Version: 1.0
 
 //Summary
