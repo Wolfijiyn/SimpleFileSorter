@@ -1,0 +1,9 @@
+c:\users\developer\documents\visual studio 2015\Projects\dropshit\dropshit\bin\Debug\dropshit.exe.config
+c:\users\developer\documents\visual studio 2015\Projects\dropshit\dropshit\bin\Debug\dropshit.exe
+c:\users\developer\documents\visual studio 2015\Projects\dropshit\dropshit\bin\Debug\dropshit.pdb
+c:\users\developer\documents\visual studio 2015\Projects\dropshit\dropshit\obj\Debug\dropshit.csprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2015\Projects\dropshit\dropshit\obj\Debug\dropshit.Properties.Resources.resources
+c:\users\developer\documents\visual studio 2015\Projects\dropshit\dropshit\obj\Debug\dropshit.csproj.GenerateResource.Cache
+c:\users\developer\documents\visual studio 2015\Projects\dropshit\dropshit\obj\Debug\dropshit.exe
+c:\users\developer\documents\visual studio 2015\Projects\dropshit\dropshit\obj\Debug\dropshit.pdb
+c:\users\developer\documents\visual studio 2015\Projects\dropshit\dropshit\obj\Debug\dropshit.frmMain.resources
